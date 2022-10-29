@@ -1,11 +1,11 @@
 name: drklepson_future_loading
-description: A new Flutter package project.
-version: 0.0.1
+description: With this extension, you can create a loading dialog that lasts from the moment you run the Future functions until the process is complete.
+version: 0.0.2
 homepage: https://github.com/drklepson/drklepson_future_loading
 
 environment:
-  sdk: '>=2.19.0-330.0.dev <3.0.0'
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: '>=3.3.6'
 
 dependencies:
   flutter:
